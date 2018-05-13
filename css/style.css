@@ -21,7 +21,7 @@ body {
 
 #content {
   padding: 20px;
-  background: pink;
+  background: linear-gradient(blue, black);
 }
 
 h1, h2 {
